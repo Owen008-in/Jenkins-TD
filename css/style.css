@@ -1,0 +1,30 @@
+/* Style général du site */
+body {
+  font-family: system-ui, Arial, sans-serif;
+  margin: 2rem;
+  background-color: #f8f9fa;
+  color: #222;
+  line-height: 1.6;
+}
+
+/* En-tête */
+header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+/* Titre principal */
+h1 {
+  font-size: 2rem;
+  color: #0066cc;
+}
+
+/* Pied de page */
+footer {
+  margin-top: 3rem;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #555;
+  border-top: 1px solid #ddd;
+  padding-top: 1rem;
+}
